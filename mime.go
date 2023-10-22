@@ -1,4 +1,4 @@
-package fsctx
+package mime
 
 import (
 	"mime"
